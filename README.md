@@ -37,4 +37,4 @@ The project uses the following tables:
 
 ## Access the Full Documentation
 
-Dataset was provided by ALX [Project Documentaion](https://alaxafrica.com)
+Dataset was provided by ALX [Project Documentaion](https://alxafrica.com)
